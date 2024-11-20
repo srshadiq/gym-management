@@ -30,5 +30,24 @@ A C++ program designed to manage and track gym member information efficiently. T
 ### Reporting
 8. **Display All**: Show all active members with their ID, height, and weight, along with attendance records.
 
+## Menu Options
+Upon running the program, you'll see the main menu:
+********** Main Menu **********
+1. Add Member
+2. Update Member
+3. Remove Member
+4. Max Height & Weight
+5. Min Height and Weight
+6. Average Height and Weight
+7. BMI Classification
+8. Display All
+9. Attendance
+0. Exit
+
+## Technologies Used
+- Programming Language: C++
+- Environment: Console-based application
+- Development Tools: Any C++ compiler (e.g., GCC, Code::Blocks, Visual Studio)
+
 
 
