@@ -13,12 +13,6 @@ A C++ program designed to manage and track gym member information efficiently. T
 
 
 
-### Attendance Management
-- Record attendance for members by their ID.
-- Display the attendance status (Present/Absent) for all members.
-
-
-
 ### Health Insights
 4. **Max Height & Weight**: Identify the tallest and heaviest members along with their IDs.
 5. **Min Height & Weight**: Find the shortest and lightest members with their IDs.
@@ -29,6 +23,15 @@ A C++ program designed to manage and track gym member information efficiently. T
 
 ### Reporting
 8. **Display All**: Show all active members with their ID, height, and weight, along with attendance records.
+
+
+
+### Attendance Management
+- Record attendance for members by their ID.
+- Display the attendance status (Present/Absent) for all members.
+
+---
+
 
 ## Menu Options
 Upon running the program, you'll see the main menu:
