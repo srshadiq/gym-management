@@ -30,7 +30,6 @@ A C++ program designed to manage and track gym member information efficiently. T
 - Record attendance for members by their ID.
 - Display the attendance status (Present/Absent) for all members.
 
----
 
 
 ## Menu Options
